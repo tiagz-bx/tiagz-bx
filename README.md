@@ -18,12 +18,6 @@
 ```
 #
 ```
-🤝 > Contact : trozilu@gmail.com
-📌 > Discord : https://discord.gg/EYVyCqb4Qg
-```
-#
-```
-💫 > Contact : trozilu@gmail.com
 ✨ > Github  : https://github.com/TN-TN
 ```
 #
