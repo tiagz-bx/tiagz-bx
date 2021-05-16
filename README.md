@@ -6,7 +6,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/tiagz-bx">
-    <img src="https://discord.c99.nl/widget/theme-4/789071575420370975.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/704680494511554631.png"/>
      </a>
 </p>
 
@@ -28,18 +28,19 @@
 ```
 #
 ```
-🐍 > Python                 - Dev level => 10/10
-🌌 > Csharp                 - Dev level => 5/10
-🌟 > JavaScript             - Dev level => 4/10
-🌐 > Html / Css / Js / Php  - Dev level => 5/10
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+🐍 > Python                 - Dev level => 9/10
+🌐 > Html / Css / Js / Php  - Dev level => 7/10
+🌌 > Csharp                 - Dev level => 7/10
+🌟 > JavaScript             - Dev level => 6/10
+🌌 > C++                    - Dev level => LOL/10
 
 >~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-🔸 > C (learning)
 ```
 #
 ```
-- 🐍 > French devloper on 👀 PYTHON/C# and HTML/PHP 👀
 - 👀 > Owner on multiproxies.com
 - ❤️ > Passionate of created Interface, Developement etc...
 ```
