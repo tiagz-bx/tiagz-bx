@@ -6,7 +6,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/tiagz-bx">
-    <img src="https://discord.c99.nl/widget/theme-4/704680494511554631.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/845757144883265556.png"/>
      </a>
 </p>
 
