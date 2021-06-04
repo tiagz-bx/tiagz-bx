@@ -35,13 +35,12 @@
 ```
 #
 ```
-- 👀 > Owner on multiproxies.com
 - ❤️ > Passionate of created Interface, Developement etc...
 ```
 
 Contact me:
 - Discord: `Tiagz#9999`
-- Server: <p><a href="https://discord.gg/bdUM6SbEpJ" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/842765589557805098/widget.png?style=banner2" alt="Discord" /></a></p>
+- Server: <p><a href="https://discord.gg/wcJEZnW7aJ" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/842765589557805098/widget.png?style=banner2" alt="Discord" /></a></p>
 
 <br><br>
 <p align="center">
